@@ -1,0 +1,182 @@
+html, body {
+    width: 100%;
+}
+body {
+    width: 100%;
+    height: 1900px;
+    background-color: white;
+    font-family: "Source Sans Pro Bold";
+}
+
+/*top two bars */
+.nav {
+    height: 40px;
+    width: 100%;
+    display: inline-block;
+    margin: 0px;
+    font-size: 0;
+}
+
+.navlogo {
+    float: left;
+    background: rgb(172, 211, 115);
+    background-clip: content-box;
+    width: 85%;
+    height: 40px;
+}
+
+.navlogo img {
+    margin-left: 26px;
+    margin-top: 6px;
+}
+
+.navbox {
+    float: right;
+    background: rgb(137, 168, 92);
+    background-clip: content-box;
+    width: 40px;
+    height: 40px;
+    padding-right: 15px;
+}
+
+.navbox img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 12px;
+}
+
+/*first section*/
+.first {
+    height: 347px;
+    width: 100%;
+    background-clip: content-box;
+    background: rgb(154, 189, 103);
+    margin-top: 0px;
+    padding-top: 0px;
+    font-size: 0;
+    text-align: center;
+}
+
+.first h3 {
+    position: relative;
+    top: 100px;
+    left: 0px;
+    font-size: 20px;
+}
+
+.first p {
+    position: relative;
+    top: 133px;
+    left: 0px;
+    font-size: 13px; 
+}
+
+.arrow img {
+    position: relative;
+    top: 200px;
+    left: 0px;
+}
+.skyline img {
+    width: 100%;
+    position: relative;
+    top: 220px;
+    left: 0px;
+}
+
+/*second section*/
+.second {
+    width: 100%;
+    height: 500px;
+    background-clip: content-box;
+    background: rgb(247, 247, 247);
+}
+.second > p {
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-bottom: 30px;
+}
+
+.phone {
+    padding-left: 140px;
+    padding-top: 42px;
+}
+.man img, h4 {
+    display: inline-block;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.man h4 {
+    padding-left: 12px;
+}
+
+.man > img {
+    margin-left: 30px;
+}
+
+.second a {
+    height: 30px;
+    width: 90px;
+    border: 2px solid rgb(154, 189, 103);
+    padding: 10px;
+    margin: 30px;
+    text-decoration: none;
+    color: rgb(154, 189, 103);
+    font-style: italic;   
+}
+
+.video1 {
+    width: 100%;
+    height: 260px;
+    background-image: url(collegekidsoverlay.png);
+    background-repeat: no-repeat;
+    background-size: 100%;  
+}
+
+.video1 img {
+    padding-left: auto;
+    padding-top: auto;
+    height: auto;
+    width: auto;
+}
+
+.services {
+    text-decoration: none;
+}
+.services span {
+    color: green;
+}
+
+.services h4 {
+    color: green;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
